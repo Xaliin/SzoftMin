@@ -1,0 +1,40 @@
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\Mono.Cecil.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\nunit.core.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\nunit.util.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\TestClasses.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\TestClasses.pdb
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\BeadandoFeladat2021.exe
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\nunit.framework.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\BeadandoFeladat2021.pdb
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\BeadandoFeladat2021.exe.config
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\bin\Debug\nunit.framework.xml
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\obj\Debug\TestClasses.csproj.AssemblyReference.cache
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\obj\Debug\TestClasses.csproj.CopyComplete
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\obj\Debug\TestClasses.dll
+C:\Users\Botond\Desktop\ELTE\szoftmingitre\mo3gt7_matebotondzsigmond\BeadandoFeladat2021\TestClasses\obj\Debug\TestClasses.pdb
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\Mono.Cecil.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\nunit.core.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\nunit.core.interfaces.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\nunit.util.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\TestClasses.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\TestClasses.pdb
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\BeadandoFeladat2021.exe
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\nunit.framework.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\BeadandoFeladat2021.pdb
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\BeadandoFeladat2021.exe.config
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\bin\Debug\nunit.framework.xml
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\obj\Debug\TestClasses.csproj.AssemblyReference.cache
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\obj\Debug\TestClasses.csproj.CopyComplete
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\obj\Debug\TestClasses.dll
+D:\Ádám\Suli_ELTE\FOSZK\Szoftver minőség-biztosítás\Beadandó_DBLR99\BeadandoFeladat2022\dblr99_kissadam\TestClasses\obj\Debug\TestClasses.pdb
